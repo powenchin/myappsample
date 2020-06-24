@@ -1,1 +1,1 @@
-console.out()
+console.log()
